@@ -4,11 +4,11 @@
 
 What we want:
 
-![](we-want.png)
+![](images/we-want.png)
 
 What [they give](https://data.gov.hk/en-data/dataset/hk-had-json1-hong-kong-administrative-boundaries/resource/d2a89ff1-72d7-4523-a7de-74a57ad3e14b):
 
-![](they-give.png)
+![](images/they-give.png)
 
 So we DIO.
 
