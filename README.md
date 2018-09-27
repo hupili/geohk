@@ -2,8 +2,12 @@
 
 ## Quickstart list
 
-- High precision GeoJSON of Hong Kong District Council: [census2001/dc_land.geo.json](census2001/dc_land.geo.json)
-- High precision GeoJSON of Hong Kong District Council and Constituency Area: [census2001/dcca_land.geo.json](census2001/dcca_land.geo.json)
+- GeoJSON of Hong Kong District Council (DC): 
+   - High resolution [census2001/dc_land.geo.json](census2001/dc_land.geo.json)
+   - Low resolution [census2001/dc_land.lowres.geo.json](census2001/dc_land.lowres.geo.json)
+- GeoJSON of Hong Kong District Council and Constituency Area (DCCA):
+   - High resolution [census2001/dcca_land.geo.json](census2001/dcca_land.geo.json)
+   - Low resolution [census2001/dcca_land.lowres.geo.json](census2001/dcca_land.lowres.geo.json)
 
 ## License
 
